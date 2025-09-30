@@ -46,9 +46,9 @@ A **drag-and-drop system** to design AI models visually.
 ---
 
 ## 🛠️ Tech & Tools I Use
-- **Languages**: Python, C++, JavaScript  
-- **ML/DL**: PyTorch, NumPy, scikit-learn  
-- **Other**: Unity, Flask, SQL, pybind11  
+- **Languages**: Python, C++, JavaScript, TypeScript, HTML, CSS. 
+- **ML/DL**: Pandas, NumPy, scikit-learn, Pytorch, TensorFlow, Matplotlib, Seaborn, Hugging Face.
+- **Other**: Unity, Flask, pybind11, React.js.
 
 ---
 
