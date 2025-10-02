@@ -18,7 +18,8 @@ A web app where users can upload designs and order 3D prints.
 A deep learning framework built **from the ground up**.  
 - Implements **layers, models, tensors, backpropagation, autograd**.  
 - Includes a **Tensor Core in C++** with Python bindings via **pybind11**.  
-- My attempt to truly understand what goes under the hood of PyTorch/TensorFlow.  
+- My attempt to truly understand what goes under the hood of PyTorch/TensorFlow.
+- Development has been Haulted now.
 
 ---
 
