@@ -53,9 +53,9 @@ A **drag-and-drop system** to design AI models visually.
 ---
 
 ## 🌱 Currently Exploring
-- Building custom AI agents inside Unity.  
-- Smarter experiment frameworks (hyperparameter tuning, automation).  
-- Advanced data analysis workflows.  
+- Building custom AI agents for Web development.  
+- Smarter experiment frameworks (hyperparameter tuning, Data analysis automation).  
+(You will soon see Repos about theese on my acount)
 
 ---
 ✨ *Always building, always learning.*  
